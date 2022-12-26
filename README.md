@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://c4.wallpaperflare.com/wallpaper/541/689/283/evangelion-neon-genesis-evangelion-vaporwave-hd-wallpaper-preview.jpg" align="center" style="width: 50%" />
 </div>  
   
 
 ### <div align="center">I'm Claudeon, a second-year Data Science and Analytics student at the National University of Singapore 👨‍💻 since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Customer Segmentation and Marketing](https://github.com/claudeonrs/python-dechols/marketing.ipynb)  
+- 🔭 I’m currently working on [Customer Segmentation and Marketing](https://github.com/claudeonrs/python-dechols/blob/main/marketing.ipynb)  
   
 
-- 🌱 I have worked on [Predictive Maintenance](https://github.com/claudeonrs/python-dechols/maintenance.ipynb) using Support Vector Machines (SVM) and Random Forest Classifier in the past  
+- 🌱 I have worked on [Predictive Maintenance](https://github.com/claudeonrs/python-dechols/blob/main/maintenance.ipynb) using Support Vector Machines (SVM) and Random Forest Classifier in the past  
   
 
 - ❓ I'm currently learning Tensorflow and Keras   
