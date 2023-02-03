@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/541/689/283/evangelion-neon-genesis-evangelion-vaporwave-hd-wallpaper-preview.jpg" align="center" style="width: 50%" />
-</div>  
-  
-
 ### <div align="center">I'm Claudeon, a second-year Data Science and Analytics student at the National University of Singapore 👨‍💻 since 2021 🚀</div>  
   
 
