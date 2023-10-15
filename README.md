@@ -1,16 +1,14 @@
-### <div align="center">I'm Claudeon, a second-year Data Science and Analytics student at the National University of Singapore 👨‍💻 since 2021 🚀</div>  
+### <div align="center">I'm Claudeon, a penultimate Data Science and Analytics student at the National University of Singapore 👨‍💻 since 2021 🚀</div>  
   
+- 🌱 I'm passionate in using machine learning and operations research to generate insights from raw data, and add value to businesses/clients
 
-- 🔭 I’m currently working on [Customer Segmentation and Marketing](https://github.com/claudeonrs/cust-segmentation/blob/master/marketing.ipynb)  
-  
+- 🔭 One of the projects I'm currently working on is Customer Lifetime Value (CLV) Prediction as part of ML Department of NUS Fintech Society 
 
-- 🌱 I have worked on [Predictive Maintenance](https://github.com/claudeonrs/predictive-maintenance/blob/main/maintenance.ipynb) using Support Vector Machines (SVM) and Random Forest Classifier in the past  
-  
+- ⚡ I play the keyboard and bass in my free time
 
-- ❓ I'm currently learning Tensorflow and Keras   
-  
+- ❓ I'm currently trying to survive this semester 🥹
 
-- ⚡ I play the keyboard and bass in my free time  
+- 😊 Happy to connect 😊
   
 
 <br/>  
