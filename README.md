@@ -1,12 +1,12 @@
 ### <div align="center">I'm Claudeon, a penultimate Data Science and Analytics student at the National University of Singapore 👨‍💻 since 2021 🚀</div>  
   
-- 🌱 I'm passionate in using machine learning and operations research to generate insights from raw data, and add value to businesses/clients
-
-- 🔭 One of the projects I'm currently working on is Customer Lifetime Value (CLV) Prediction as part of ML Department of NUS Fintech Society 
+- 🌱 I'm passionate in using **machine learning** and **operations research** to generate insights from raw data, and add value to businesses/clients
 
 - ⚡ I play the keyboard and bass in my free time
 
 - ❓ I'm currently trying to survive this semester 🥹
+
+- 🔭 One of the projects I'm currently working on is Customer Lifetime Value (CLV) Prediction as part of ML Department of NUS Fintech Society 
 
 - 😊 Happy to connect 😊
   
